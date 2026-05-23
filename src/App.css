@@ -421,3 +421,11 @@ body {
     margin-bottom: 26px;
   }
 }
+
+.x-status {
+  position: relative;
+  z-index: 2;
+  color: #39ff14;
+  text-shadow: 0 0 8px #39ff14;
+  margin: 12px 0;
+}
